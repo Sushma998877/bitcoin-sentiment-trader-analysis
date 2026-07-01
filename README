@@ -30,3 +30,14 @@ This project analyzes the relationship between Bitcoin market sentiment and trad
 ## Results
 
 The analysis demonstrates that market sentiment significantly impacts trading behavior and profitability.
+## Average Profit by Sentiment
+
+![Average Profit](images/average_profit.png)
+
+## Total Profit by Sentiment
+
+![Total Profit](images/total_profit.png)
+
+## Average Trade Size by Sentiment
+
+![Trade Size](images/trade_size.png)
